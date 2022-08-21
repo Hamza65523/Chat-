@@ -1,4 +1,4 @@
-# Chat-
+# Chat
 Chat Application
 npm install 
 npm start 
