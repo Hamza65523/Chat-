@@ -1,0 +1,22 @@
+.emoji-picker-react{
+    position: absolute;
+    top: -380px;
+    left: -10px;
+    background-color: #1f2937 !important;
+    box-shadow: 0 5px 10px #1d4ed8 !important;
+
+}
+.emoji-categories >*{
+    background-color: #24f511;
+}
+.emoji-group::before{
+    background-color: #1f2937 !important;
+    color: white !important;
+}
+button{
+    color: white !important;
+}
+.emoji-search{
+    background-color: #1f2937;
+    border: 1px solid #1d4ed8  !important;
+}
